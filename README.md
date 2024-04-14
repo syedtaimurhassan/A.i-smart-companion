@@ -1,1 +1,2 @@
 # A.i-smart-companion
+Al-Based Smart Patient healthcare application is proposed to solve the problem of  finding nearby pharmacies, searching doctor as per doctor specialization. Patient will scan their prescription and can get medicine names in plain English. Patient will record their daily dosage routine and get reminders to ensure timely  and accurate adherence to prescribed treatment. Patient will download their medical prescription summary.
